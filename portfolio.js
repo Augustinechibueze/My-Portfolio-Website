@@ -133,7 +133,7 @@ footer_disclaimer.addEventListener('click',reviewContainerPop_func)
 
 
 // Text to be typed
-const textToType = "  Augustine Chibueze A Full Stack Web Developer!!!";
+const textToType = "  Augustine Chibueze A Full-Stack Web Developer!!!";
 
 // Delay between each character (in milliseconds)
 const typingDelay = 100;
